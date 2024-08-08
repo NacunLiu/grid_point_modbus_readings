@@ -1,0 +1,147 @@
+[
+{
+    "name": "total_current",
+    "start_address": "0x2000",
+    "count": 2
+  },
+  {
+    "name": "current_ct1",
+    "start_address": "0x2002",
+    "count": 2
+  },
+  {
+    "name": "current_ct2",
+    "start_address": "0x2004",
+    "count": 2
+  },
+  {
+    "name": "current_ct3",
+    "start_address": "0x2006",
+    "count": 2
+  },
+  {
+    "name": "phase_average_voltage",
+    "start_address": "0x2008",
+    "count": 2
+  },
+  {
+    "name": "voltage_AN",
+    "start_address": "0x200A",
+    "count": 2
+  },
+  {
+    "name": "voltage_BN",
+    "start_address": "0x200C",
+    "count": 2
+  },
+  {
+    "name": "voltage_CN",
+    "start_address": "0x200E",
+    "count": 2
+  },
+  {
+    "name": "line_average_voltage",
+    "start_address": "0x2010",
+    "count": 2
+  },
+  {
+    "name": "voltage_AB",
+    "start_address": "0x2012",
+    "count": 2
+  },
+  {
+    "name": "voltage_BC",
+    "start_address": "0x2014",
+    "count": 2
+  },
+  {
+    "name": "voltage_CA",
+    "start_address": "0x2016",
+    "count": 2
+  },
+  {
+    "name": "frequency",
+    "start_address": "0x2018",
+    "count": 2
+  },
+  {
+    "name": "total_active_power",
+    "start_address": "0x201A",
+    "count": 2
+  },
+  {
+    "name": "active_power_ct1",
+    "start_address": "0x201C",
+    "count": 2
+  },
+  {
+    "name": "active_power_ct2",
+    "start_address": "0x201E",
+    "count": 2
+  },
+  {
+    "name": "active_power_ct3",
+    "start_address": "0x2020",
+    "count": 2
+  },
+  {
+    "name": "total_apparent_power",
+    "start_address": "0x2022",
+    "count": 2
+  },
+  {
+    "name": "apparent_power_ct1",
+    "start_address": "0x2024",
+    "count": 2
+  },
+  {
+    "name": "apparent_power_ct2",
+    "start_address": "0x2026",
+    "count": 2
+  },
+  {
+    "name": "apparent_power_ct3",
+    "start_address": "0x2028",
+    "count": 2
+  },
+  {
+    "name": "total_reactive_power",
+    "start_address": "0x202A",
+    "count": 2
+  },
+  {
+    "name": "reactive_power_ct1",
+    "start_address": "0x202C",
+    "count": 2
+  },
+  {
+    "name": "reactive_power_ct2",
+    "start_address": "0x202E",
+    "count": 2
+  },
+  {
+    "name": "reactive_power_ct3",
+    "start_address": "0x2030",
+    "count": 2
+  },
+  {
+    "name": "power_factor",
+    "start_address": "0x2032",
+    "count": 2
+  },
+  {
+    "name": "power_factor_ct1",
+    "start_address": "0x2034",
+    "count": 2
+  },
+  {
+    "name": "power_factor_ct2",
+    "start_address": "0x2036",
+    "count": 2
+  },
+  {
+    "name": "power_factor_ct3",
+    "start_address": "0x2038",
+    "count": 2
+  }
+]

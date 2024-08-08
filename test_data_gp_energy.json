@@ -1,0 +1,62 @@
+[
+  {
+    "name": "total_imp_active_energy",
+    "start_address": "0x204E",
+    "count": 2
+  },
+  {
+    "name": "imp_active_energy_ct1",
+    "start_address": "0x2050",
+    "count": 2
+  },
+  {
+    "name": "imp_active_energy_ct2",
+    "start_address": "0x2052",
+    "count": 2
+  },
+  {
+    "name": "imp_active_energy_ct3",
+    "start_address": "0x2054",
+    "count": 2
+  },
+  {
+    "name": "total_active_exported",
+    "start_address": "0x2046",
+    "count": 2
+  },
+  {
+    "name": "active_exported_ct1",
+    "start_address": "0x2048",
+    "count": 2
+  },
+  {
+    "name": "active_exported_ct2",
+    "start_address": "0x204A",
+    "count": 2
+  },
+  {
+    "name": "active_exported_ct3",
+    "start_address": "0x204C",
+    "count": 2
+  },
+  {
+    "name": "total_apparent_power_exported",
+    "start_address": "0x2056",
+    "count": 2
+  },
+  {
+    "name": "apparent_power_exported_ct1",
+    "start_address": "0x2058",
+    "count": 2
+  },
+  {
+    "name": "apparent_power_exported_ct2",
+    "start_address": "0x205A",
+    "count": 2
+  },
+  {
+    "name": "apparent_power_exported_ct3",
+    "start_address": "0x205C",
+    "count": 2
+  }
+]
