@@ -15,6 +15,7 @@ def read_test_data(file_address):
     return list_data
 
 
+# use for converting 2 register values to 1 float value
 def registers_to_float(reg1, reg2):
     # Combine the two 16-bit registers into a 32-bit integer
     combined_registers = (reg1 << 16) | reg2

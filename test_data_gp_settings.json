@@ -1,0 +1,85 @@
+[
+  {
+    "name": "CONFIG_PERMISSION",
+    "start_address": "0x20A",
+    "count": 1,
+    "test": "RW",
+    "default": 4,
+    "value": 2
+  },
+  {
+    "name": "PARAMETER_MEASUREMENT_SIDE",
+    "start_address": "0x210",
+    "count": 1,
+    "test": "RW",
+    "default": 1,
+    "value": 0
+  },
+  {
+    "name": "WIRING_MODE",
+    "start_address": "0x211",
+    "count": 1,
+    "test": "RW",
+    "default": 0,
+    "value": 1
+  },
+  {
+    "name": "WIRING_MODE",
+    "start_address": "0x211",
+    "count": 1,
+    "test": "RW",
+    "default": 0,
+    "value": 2
+  },
+  {
+    "name": "WIRING_MODE",
+    "start_address": "0x211",
+    "count": 1,
+    "test": "RW",
+    "default": 0,
+    "value": 3
+  },
+  {
+    "name": "CT2_VALUE",
+    "start_address": "0x212",
+    "count": 1,
+    "test": "RW",
+    "default": 333,
+    "value": 100
+  },
+  {
+    "name": "CT_RATIO_PRIMARY",
+    "start_address": "0x213",
+    "count": 1,
+    "test": "RW",
+    "default": 5,
+    "value": 10
+  },
+  {
+    "name": "PT2_VALUE",
+    "start_address": "0x215",
+    "count": 1,
+    "test": "RW",
+    "default": 4000,
+    "value": 2400
+  },
+  {
+    "name": "PT1_VALUE",
+    "start_address": "0x216",
+    "count": 2,
+    "test": "RW",
+    "default": 4000,
+    "value": [
+      0,
+      1200
+    ]
+  },
+  {
+    "name": "CT_DIRECTION",
+    "start_address": "0x21D",
+    "count": 1,
+    "test": "RW",
+    "default": 0,
+    "value": 1
+  }
+]

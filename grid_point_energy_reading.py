@@ -12,7 +12,7 @@ class ReadEnergyUnit32():
         self._setup()
 
     def _setup(self):
-        self.client = ModbusSerialClient(port='COM6', baudrate=19200, parity='N', stopbits=1, bytesize=8, timeout=1)
+        self.client = ModbusSerialClient(port='COM5', baudrate=19200, parity='N', stopbits=1, bytesize=8, timeout=1)
 
     def read_energy(self):
         self.client.connect()
@@ -32,7 +32,7 @@ class ReadRealTimeParameterFloat():
         self._setup()
 
     def _setup(self):
-        self.client = ModbusSerialClient(port='COM6', baudrate=19200, parity='N', stopbits=1, bytesize=8, timeout=1)
+        self.client = ModbusSerialClient(port='COM5', baudrate=19200, parity='N', stopbits=1, bytesize=8, timeout=1)
 
     def read_real_time_parameter_float(self):
         self.client.connect()
